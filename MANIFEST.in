@@ -1,0 +1,3 @@
+recursive-include pypispy_github_test *
+include README.md
+exclude *.orig *.pyc *.wpr
